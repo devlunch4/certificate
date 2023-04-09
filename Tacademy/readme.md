@@ -23,15 +23,15 @@
 009 온라인 추천시스템 분석 입문하기	2021.03.22 ~ 2021.03.25	certifiacation  
   https://github.com/devlunch4/TAcademyKaggle 
   
-010 온라인 Node.js 프로그래밍	2021.03.29 ~ 2021.05.21	certifiacation
+010 온라인 Node.js 프로그래밍	2021.03.29 ~ 2021.05.21	certifiacation  
   https://github.com/devlunch4/TAcademyNode.js  
   
-011 온라인 AWS Essentials	2021.05.03 ~ 2021.05.05	certifiacation  
+011 온라인 AWS Essentials	2021.05.03 ~ 2021.05.05	certifiacation   
 
 012 온라인 리눅스 환경구성 기초	2021.05.03 ~ 2021.05.06	certifiacation  
 
 013 온라인 Pandas 기본기 다지기	2021.05.18 ~ 2021.06.15	certifiacation  
 
-014 온라인 NumPy(넘파이) 기본	2021.05.18 ~ 2021.06.15	certifiacation
+014 온라인 NumPy(넘파이) 기본	2021.05.18 ~ 2021.06.15	certifiacation  
   https://github.com/devlunch4/TAcademyNumPyBasic 
   
