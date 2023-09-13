@@ -14,3 +14,5 @@ Advanced SQL - 2022-05-31 https://www.kaggle.com/learn/certification/wskimkaggle
 Intro to Programming - 2022-05-31 https://www.kaggle.com/learn/intro-to-programming
 
 Intro to Deep Learning - 2022-06-14 https://www.kaggle.com/learn/intro-to-deep-learning
+
+Time Series - 2023-09-13 https://www.kaggle.com/learn/time-series
